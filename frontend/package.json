@@ -12,6 +12,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.84.2",
     "axios": "^1.11.0",
+    "lucide-react": "^0.539.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-hot-toast": "^2.5.2",
